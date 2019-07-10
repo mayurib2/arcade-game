@@ -1,20 +1,15 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game Project
 
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [Contributing](#contributing)
+- [Acknowledgements](#Acknowledgements)
 
 ## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+Click [here](https://raw.githack.com/mayurib2/arcade-game/master/index.html) to load the game and start playing. The objective of this game is to reach the water from the green pastures while avoiding the bugs (enemies). Player can be controlled with arrow keys. Any collision with the bugs sends the player back to the start position. When the game is won, refresh the page to start playing again.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+## Acknowledgements
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This project was developed as part of the Udacity Front End Web Development Nanodegree. [This](https://review.udacity.com/#!/rubrics/15/view) project rubric was used as a guide for developing the project.
+* Starter Code : https://github.com/udacity/frontend-nanodegree-arcade-game
