@@ -13,3 +13,4 @@ Click [here](https://raw.githack.com/mayurib2/arcade-game/master/index.html) to 
 
 This project was developed as part of the Udacity Front End Web Development Nanodegree. [This](https://review.udacity.com/#!/rubrics/15/view) project rubric was used as a guide for developing the project.
 * Starter Code : https://github.com/udacity/frontend-nanodegree-arcade-game
+* References : https://www.youtube.com/watch?v=oz7pHJ65TEk
